@@ -1,0 +1,23 @@
+
+dsquid:S2095,"HUse try-with-resources or close this "FileReader" in a "finally" clause.(À¼€îûÿÿÿÿ
+csquid:S2095-"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(Âõ–
+Xsquid:S2259$"AA "NullPointerException" could be thrown; "app" is nullable here.(Å¸Şš
+Xsquid:UselessImportCheck
+"4Remove this unused import 'java.lang.reflect.Field'.(„‡Áú
+?squid:S11488"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?squid:S1148:"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?squid:S1148Z"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?squid:S1148n"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?squid:S1148p"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?squid:S1148r"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+[squid:S21479"DCombine this catch with the one at line 55, which has the same body.(ï­£Ä
+[squid:CallToDeprecatedMethodW"3Remove this use of "newInstance"; it is deprecated.(«ë©ú
+Csquid:S1172_",Remove this unused method parameter "title".(ºÔÂ´
+\squid:S2147o"ECombine this catch with the one at line 109, which has the same body.(Å¡ß
+\squid:S2147q"ECombine this catch with the one at line 109, which has the same body.(åşáÿ
+Tsquid:UnusedPrivateMethod'"/Remove this unused private "loadConfig" method.(‰é™Í
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ˆ‰ˆşÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ç½şÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(šö¦úûÿÿÿÿ
+gsquid:CommentedOutCodeLine!"<This block of commented-out lines of code should be removed.(Ç¢üÿÿÿÿ
+bsquid:CommentedOutCodeLinej"<This block of commented-out lines of code should be removed.(Ôƒ‚·
